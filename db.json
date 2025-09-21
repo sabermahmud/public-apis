@@ -3,7 +3,7 @@
     "id": 1,
     "productImg": "https://raw.githubusercontent.com/sabermahmud/image-store/main/Bid1-min.png",
     "productName": "Vintage Leica M3 Camera",
-    "price": "$49.99",
+    "price": "49.99",
     "timeLeft": "2h 30m",
     "isFavorite": false
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "productImg": "https://raw.githubusercontent.com/sabermahmud/image-store/main/Bid2-min.png",
     "productName": "1965 Gibson SG Standard Electric Guitar",
-    "price": "$89.00",
+    "price": "89.00",
     "timeLeft": "5h 12m",
     "isFavorite": true
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "productImg": "https://raw.githubusercontent.com/sabermahmud/image-store/main/Bid3-min.png",
     "productName": "Original Apple Macintosh 128K (1984)",
-    "price": "$35.50",
+    "price": "35.50",
     "timeLeft": "1h 45m",
     "isFavorite": false
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "productImg": "https://raw.githubusercontent.com/sabermahmud/image-store/main/Bid4-min.png",
     "productName": "Rolex Submariner 16610",
-    "price": "$29.99",
+    "price": "29.99",
     "timeLeft": "3h 20m",
     "isFavorite": false
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "productImg": "https://raw.githubusercontent.com/sabermahmud/image-store/main/Bid5-min.png",
     "productName": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
-    "price": "$69.90",
+    "price": "69.90",
     "timeLeft": "7h 15m",
     "isFavorite": true
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "productImg": "https://raw.githubusercontent.com/sabermahmud/image-store/main/Bid6-min.png",
     "productName": "Mid-Century Modern Eames Lounge Chair",
-    "price": "$199.99",
+    "price": "199.99",
     "timeLeft": "12h 5m",
     "isFavorite": false
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "productImg": "https://raw.githubusercontent.com/sabermahmud/image-store/main/Bid7-min.png",
     "productName": "Banksy Original Screen Print",
-    "price": "$129.49",
+    "price": "129.49",
     "timeLeft": "8h 40m",
     "isFavorite": true
   }
