@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "fish_image": "https://www.fishimages.com/neon-tetra.jpg",
+    "fish_image": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/f8390caeea818bfea79e9f66d95aa2dc0351d337/fishes/neon-tetra.jpg",
     "fish_name": "Neon Tetra",
     "fish_price": 3.5,
     "stock_limit": 120,
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "fish_image": "https://www.fishimages.com/guppy.jpg",
+    "fish_image": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/f8390caeea818bfea79e9f66d95aa2dc0351d337/fishes/guppy.jpg",
     "fish_name": "Guppy",
     "fish_price": 2,
     "stock_limit": 200,
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "fish_image": "https://www.fishimages.com/discus.jpg",
+    "fish_image": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/f8390caeea818bfea79e9f66d95aa2dc0351d337/fishes/discose.jpg",
     "fish_name": "Discus",
     "fish_price": 25,
     "stock_limit": 40,
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "fish_image": "https://www.fishimages.com/angelfish.jpg",
+    "fish_image": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/f8390caeea818bfea79e9f66d95aa2dc0351d337/fishes/Angelfish.jpg",
     "fish_name": "Angelfish",
     "fish_price": 10,
     "stock_limit": 80,
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "fish_image": "https://www.fishimages.com/oscar.jpg",
+    "fish_image": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/f8390caeea818bfea79e9f66d95aa2dc0351d337/fishes/oscar.jpg",
     "fish_name": "Oscar Fish",
     "fish_price": 18,
     "stock_limit": 50,
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "fish_image": "https://www.fishimages.com/betta.jpg",
+    "fish_image": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/f8390caeea818bfea79e9f66d95aa2dc0351d337/fishes/betta.jpg",
     "fish_name": "Betta Fish",
     "fish_price": 5,
     "stock_limit": 150,
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "fish_image": "https://www.fishimages.com/goldfish.jpg",
+    "fish_image": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/f8390caeea818bfea79e9f66d95aa2dc0351d337/fishes/gold.jpg",
     "fish_name": "Goldfish",
     "fish_price": 4,
     "stock_limit": 300,
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "fish_image": "https://www.fishimages.com/molly.jpg",
+    "fish_image": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/f8390caeea818bfea79e9f66d95aa2dc0351d337/fishes/moly.jpg",
     "fish_name": "Molly",
     "fish_price": 2.5,
     "stock_limit": 180,
@@ -81,17 +81,17 @@
   },
   {
     "id": 9,
-    "fish_image": "https://www.fishimages.com/clownfish.jpg",
-    "fish_name": "Clownfish",
+    "fish_image": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/f8390caeea818bfea79e9f66d95aa2dc0351d337/fishes/clown.jpg",
+    "fish_name": "Clown fish",
     "fish_price": 15,
     "stock_limit": 60,
     "imported_from": "Philippines",
-    "fish_about": "Clownfish are marine species, famous from the movie Finding Nemo.",
+    "fish_about": "Clown fish are marine species, famous from the movie Finding Nemo.",
     "why_to_buy_this": "Very popular marine fish, colorful, and compatible with anemones."
   },
   {
     "id": 10,
-    "fish_image": "https://www.fishimages.com/pleco.jpg",
+    "fish_image": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/f8390caeea818bfea79e9f66d95aa2dc0351d337/fishes/Plecostomus.jpg",
     "fish_name": "Plecostomus",
     "fish_price": 12,
     "stock_limit": 70,
