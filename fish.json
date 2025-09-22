@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "fish_image": "https://www.fishimages.com/neon-tetra.jpg",
+    "fish_name": "Neon Tetra",
+    "fish_price": 3.5,
+    "stock_limit": 120,
+    "imported_from": "Brazil",
+    "fish_about": "Neon Tetras are small, peaceful, and colorful community fish with bright blue and red stripes.",
+    "why_to_buy_this": "Perfect for beginners, hardy, and adds vibrant color to aquariums."
+  },
+  {
+    "id": 2,
+    "fish_image": "https://www.fishimages.com/guppy.jpg",
+    "fish_name": "Guppy",
+    "fish_price": 2,
+    "stock_limit": 200,
+    "imported_from": "Thailand",
+    "fish_about": "Guppies are livebearers, highly adaptable, and come in many tail colors and patterns.",
+    "why_to_buy_this": "Easy to care for, breeds quickly, and very affordable."
+  },
+  {
+    "id": 3,
+    "fish_image": "https://www.fishimages.com/discus.jpg",
+    "fish_name": "Discus",
+    "fish_price": 25,
+    "stock_limit": 40,
+    "imported_from": "Malaysia",
+    "fish_about": "Discus fish are known as the 'King of the Aquarium' due to their large size and bright colors.",
+    "why_to_buy_this": "Premium choice for advanced aquarists, highly attractive centerpiece fish."
+  },
+  {
+    "id": 4,
+    "fish_image": "https://www.fishimages.com/angelfish.jpg",
+    "fish_name": "Angelfish",
+    "fish_price": 10,
+    "stock_limit": 80,
+    "imported_from": "Singapore",
+    "fish_about": "Angelfish are graceful, tall-bodied cichlids with elegant fins and unique patterns.",
+    "why_to_buy_this": "Eye-catching appearance, peaceful nature, and long lifespan."
+  },
+  {
+    "id": 5,
+    "fish_image": "https://www.fishimages.com/oscar.jpg",
+    "fish_name": "Oscar Fish",
+    "fish_price": 18,
+    "stock_limit": 50,
+    "imported_from": "India",
+    "fish_about": "Oscar fish are intelligent cichlids with bold patterns and interactive behavior.",
+    "why_to_buy_this": "Recognizes owners, very interactive, and grows large for a show tank."
+  },
+  {
+    "id": 6,
+    "fish_image": "https://www.fishimages.com/betta.jpg",
+    "fish_name": "Betta Fish",
+    "fish_price": 5,
+    "stock_limit": 150,
+    "imported_from": "Thailand",
+    "fish_about": "Betta fish, also known as Siamese Fighting Fish, are famous for their flowing fins and bright colors.",
+    "why_to_buy_this": "Low maintenance, very colorful, and can live in small aquariums."
+  },
+  {
+    "id": 7,
+    "fish_image": "https://www.fishimages.com/goldfish.jpg",
+    "fish_name": "Goldfish",
+    "fish_price": 4,
+    "stock_limit": 300,
+    "imported_from": "China",
+    "fish_about": "Goldfish are one of the oldest domesticated fish, available in many varieties and sizes.",
+    "why_to_buy_this": "Classic choice, long lifespan, and brings good luck in many cultures."
+  },
+  {
+    "id": 8,
+    "fish_image": "https://www.fishimages.com/molly.jpg",
+    "fish_name": "Molly",
+    "fish_price": 2.5,
+    "stock_limit": 180,
+    "imported_from": "Indonesia",
+    "fish_about": "Mollies are livebearers, peaceful, and come in black, white, and golden varieties.",
+    "why_to_buy_this": "Perfect for community tanks, very easy to breed, and hardy."
+  },
+  {
+    "id": 9,
+    "fish_image": "https://www.fishimages.com/clownfish.jpg",
+    "fish_name": "Clownfish",
+    "fish_price": 15,
+    "stock_limit": 60,
+    "imported_from": "Philippines",
+    "fish_about": "Clownfish are marine species, famous from the movie Finding Nemo.",
+    "why_to_buy_this": "Very popular marine fish, colorful, and compatible with anemones."
+  },
+  {
+    "id": 10,
+    "fish_image": "https://www.fishimages.com/pleco.jpg",
+    "fish_name": "Plecostomus",
+    "fish_price": 12,
+    "stock_limit": 70,
+    "imported_from": "Brazil",
+    "fish_about": "Plecostomus, or 'plecos,' are algae-eating catfish that keep tanks clean.",
+    "why_to_buy_this": "Great natural cleaner, hardy, and grows large."
+  }
+]
