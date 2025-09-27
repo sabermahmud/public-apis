@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title_en": "Home",
+    "title_bn": "হোম",
+    "title_ar": "الرئيسية",
+    "path": "/",
+    "icon": "home",
+    "order": 1,
+    "authRequired": false
+  },
+  {
+    "id": 2,
+    "title_en": "Courses",
+    "title_bn": "কোর্সসমূহ",
+    "title_ar": "الدورات",
+    "path": "/courses",
+    "icon": "book-open",
+    "order": 2,
+    "authRequired": false,
+    "children": [
+      {
+        "id": 21,
+        "title_en": "All Courses",
+        "title_bn": "সব কোর্স",
+        "title_ar": "جميع الدورات",
+        "path": "/courses",
+        "order": 1
+      },
+      {
+        "id": 22,
+        "title_en": "Live Classes",
+        "title_bn": "লাইভ ক্লাস",
+        "title_ar": "حصص مباشرة",
+        "path": "/courses/live",
+        "order": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title_en": "Programs",
+    "title_bn": "প্রোগ্রাম",
+    "title_ar": "البرامج",
+    "path": "/programs",
+    "icon": "layers",
+    "order": 3,
+    "authRequired": false
+  },
+  {
+    "id": 4,
+    "title_en": "Instructors",
+    "title_bn": "শিক্ষকবৃন্দ",
+    "title_ar": "المدربون",
+    "path": "/instructors"  
+}
+]
