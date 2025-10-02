@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ahmed Al-Farisi",
+    "gender": "male",
+    "experience": 18,
+    "law_subject": "Corporate Law",
+    "expertise": ["Mergers & Acquisitions", "Corporate Governance", "Commercial Contracts"],
+    "license_no": "SA-CORP-2010-0147",
+    "tags": ["corporate", "M&A", "contract-drafting"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-1.jpg",
+    "client_review": "Ahmed bhai proshongik bhabe shob kichu bujhiechilen. Deal ta smooth hoye gelo.",
+    "ratings": 4.9,
+    "consultation_fee": { "amount": 600, "currency": "SAR" },
+    "available_time": [
+      { "day": "Monday", "from": "10:00", "to": "14:00" },
+      { "day": "Thursday", "from": "16:00", "to": "19:00" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Fatima Noor",
+    "gender": "female",
+    "experience": 10,
+    "law_subject": "Family Law",
+    "expertise": ["Divorce", "Child Custody", "Inheritance"],
+    "license_no": "SA-FAM-2015-0782",
+    "tags": ["family", "mediation", "custody"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-f-1.jpg",
+    "client_review": "Soft-spoken and very supportive. Child custody case valo kore handle korlen.",
+    "ratings": 4.7,
+    "consultation_fee": { "amount": 250, "currency": "SAR" },
+    "available_time": [
+      { "day": "Tuesday", "from": "09:00", "to": "12:00" },
+      { "day": "Friday", "from": "14:00", "to": "18:00" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mohammed Tariq",
+    "gender": "male",
+    "experience": 12,
+    "law_subject": "Criminal Law",
+    "expertise": ["Criminal Defense", "Bail Hearings", "White-collar Crime"],
+    "license_no": "SA-CRM-2013-0321",
+    "tags": ["criminal", "defense", "litigation"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-2.jpg",
+    "client_review": "Tariq sb pro-active chilen. Court e confident bhabe represent korlen.",
+    "ratings": 4.6,
+    "consultation_fee": { "amount": 400, "currency": "SAR" },
+    "available_time": [
+      { "day": "Wednesday", "from": "11:00", "to": "15:00" },
+      { "day": "Saturday", "from": "09:00", "to": "12:00" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Aisha Khaled",
+    "gender": "female",
+    "experience": 7,
+    "law_subject": "Immigration Law",
+    "expertise": ["Work Visas", "Residence Permits", "Appeals"],
+    "license_no": "SA-IMM-2018-0560",
+    "tags": ["immigration", "visa", "documentation"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-f-2.jpg",
+    "client_review": "Visa process e onek shahajjo korlen. Documentation khub bhalo kore prepare korlen.",
+    "ratings": 4.8,
+    "consultation_fee": { "amount": 200, "currency": "SAR" },
+    "available_time": [
+      { "day": "Monday", "from": "09:00", "to": "12:00" },
+      { "day": "Thursday", "from": "10:00", "to": "13:00" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Khaled Mansur",
+    "gender": "male",
+    "experience": 22,
+    "law_subject": "Real Estate & Property",
+    "expertise": ["Property Transactions", "Title Disputes", "Leases"],
+    "license_no": "SA-RE-2003-0019",
+    "tags": ["real-estate", "property-dispute", "transaction"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-3.jpg",
+    "client_review": "Property sale smooth hoye gelo. Khaled sb experienced and dependable.",
+    "ratings": 4.5,
+    "consultation_fee": { "amount": 500, "currency": "SAR" },
+    "available_time": [
+      { "day": "Tuesday", "from": "15:00", "to": "18:00" },
+      { "day": "Friday", "from": "09:00", "to": "11:00" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sara Begum",
+    "gender": "female",
+    "experience": 15,
+    "law_subject": "Employment & Labor Law",
+    "expertise": ["Employment Contracts", "Workplace Disputes", "Termination Cases"],
+    "license_no": "SA-LBR-2010-0444",
+    "tags": ["labor", "employment", "advice"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-f-3.jpg",
+    "client_review": "Sara di workplace issue bhalo vabe resolve korechilen. Documentation strong chilo.",
+    "ratings": 4.8,
+    "consultation_fee": { "amount": 300, "currency": "SAR" },
+    "available_time": [
+      { "day": "Wednesday", "from": "09:00", "to": "13:00" },
+      { "day": "Sunday", "from": "16:00", "to": "19:00" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Omar Habib",
+    "gender": "male",
+    "experience": 9,
+    "law_subject": "Intellectual Property",
+    "expertise": ["Trademarks", "Patent Filings", "IP Litigation"],
+    "license_no": "SA-IP-2016-0901",
+    "tags": ["ip", "trademark", "patent"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-4.jpg",
+    "client_review": "Brand registration khub professional bhabe korlen. Highly recommended for startups.",
+    "ratings": 4.6,
+    "consultation_fee": { "amount": 350, "currency": "SAR" },
+    "available_time": [
+      { "day": "Thursday", "from": "11:00", "to": "14:00" },
+      { "day": "Saturday", "from": "13:00", "to": "16:00" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Yousef Rahman",
+    "gender": "male",
+    "experience": 5,
+    "law_subject": "Tax Law",
+    "expertise": ["Corporate Tax", "Tax Planning", "Compliance"],
+    "license_no": "SA-TAX-2020-1220",
+    "tags": ["tax", "compliance", "planning"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-5.jpg",
+    "client_review": "Tax planning er jonno valo guidance dilo. Fees o clear chilo.",
+    "ratings": 4.3,
+    "consultation_fee": { "amount": 280, "currency": "SAR" },
+    "available_time": [
+      { "day": "Monday", "from": "14:00", "to": "17:00" },
+      { "day": "Friday", "from": "12:00", "to": "15:00" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Ibrahim Al-Saeed",
+    "gender": "male",
+    "experience": 14,
+    "law_subject": "Banking & Finance",
+    "expertise": ["Loan Agreements", "Debt Restructuring", "Regulatory Compliance"],
+    "license_no": "SA-BNK-2009-0673",
+    "tags": ["banking", "finance", "regulation"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-6.jpg",
+    "client_review": "Complex loan negotiation e onek help korlen. Professional team ache.",
+    "ratings": 4.7,
+    "consultation_fee": { "amount": 550, "currency": "SAR" },
+    "available_time": [
+      { "day": "Tuesday", "from": "10:00", "to": "13:00" },
+      { "day": "Thursday", "from": "09:00", "to": "12:00" }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Laila Mansoor",
+    "gender": "female",
+    "experience": 11,
+    "law_subject": "Environmental Law",
+    "expertise": ["Regulatory Permits", "Environmental Compliance", "Impact Assessments"],
+    "license_no": "SA-ENV-2014-0455",
+    "tags": ["environment", "compliance", "permits"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-f-4.jpg",
+    "client_review": "Project permit niye somossa chhilo — Laila ma'am shob clear kore diyechilen.",
+    "ratings": 4.6,
+    "consultation_fee": { "amount": 320, "currency": "SAR" },
+    "available_time": [
+      { "day": "Wednesday", "from": "14:00", "to": "17:00" },
+      { "day": "Sunday", "from": "10:00", "to": "13:00" }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Hassan Qureshi",
+    "gender": "male",
+    "experience": 6,
+    "law_subject": "Maritime & Transport",
+    "expertise": ["Shipping Contracts", "Cargo Claims", "Marine Insurance"],
+    "license_no": "SA-MAR-2019-0310",
+    "tags": ["maritime", "shipping", "claims"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-7.jpg",
+    "client_review": "Cargo delay er claim e sahajjo korlen, settlement bhalo hoye gelo.",
+    "ratings": 4.4,
+    "consultation_fee": { "amount": 330, "currency": "SAR" },
+    "available_time": [
+      { "day": "Monday", "from": "16:00", "to": "19:00" },
+      { "day": "Saturday", "from": "09:00", "to": "11:00" }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Nadia Rahim",
+    "gender": "female",
+    "experience": 4,
+    "law_subject": "Consumer Protection & E-commerce",
+    "expertise": ["Online Disputes", "Consumer Claims", "Data Privacy Basics"],
+    "license_no": "SA-CNS-2021-0888",
+    "tags": ["consumer", "e-commerce", "privacy"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-8.jpg",
+    "client_review": "Online seller er against e claim korte khub helpful chilen. Quick response.",
+    "ratings": 4.5,
+    "consultation_fee": { "amount": 180, "currency": "SAR" },
+    "available_time": [
+      { "day": "Tuesday", "from": "17:00", "to": "20:00" },
+      { "day": "Thursday", "from": "09:00", "to": "11:00" }
+    ]
+  }
+]
