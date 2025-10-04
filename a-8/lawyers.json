@@ -7,87 +7,186 @@
     "law_subject": "Corporate Law",
     "expertise": ["Mergers & Acquisitions", "Corporate Governance", "Commercial Contracts"],
     "license_no": "SA-CORP-2010-0147",
+    "firm_name": "Al-Farisi & Partners Legal Consultancy",
+    "education": "LLM, University of Oxford",
+    "email": "ahmed.alfarisi@alfarisilegal.com",
+    "phone": "+966-55-234-7810",
+    "office_location": "Riyadh, Saudi Arabia",
     "tags": ["corporate", "M&A", "contract-drafting"],
-    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-1.jpg",
-    "client_review": "Ahmed bhai proshongik bhabe shob kichu bujhiechilen. Deal ta smooth hoye gelo.",
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/l-m-1.jpg",
+    "profile_banner": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/banner-corporate.jpg",
+      "client_name": "Mohammed Rashid",
+      "client_img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/42c580696b15930fcd7c68df6aa19d15832329f5/client/c-m-1.jpg",
+      "review": "Ahmed was extremely professional. He explained the process clearly, and our deal went through smoothly.",
+      "posted_on": "2024-11-12T14:22:00Z",
+      "case_type": "M&A Deal",
+      "verified_client": true
+    ,
     "ratings": 4.9,
     "consultation_fee": { "amount": 600, "currency": "SAR" },
+    "success_cases": 147,
+    "success_rate": 96,
     "available_time": [
       { "day": "Monday", "from": "10:00", "to": "14:00" },
       { "day": "Thursday", "from": "16:00", "to": "19:00" }
-    ]
+    ],
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/ahmed-alfarisi",
+      "website": "https://alfarisilegal.com",
+      "twitter": "https://twitter.com/ahmedalfarisi"
+    },
+    "last_updated": "2025-09-15T10:00:00Z"
   },
   {
     "id": 2,
-    "name": "Fatima Noor",
+    "name": "Aisha Al-Harbi",
     "gender": "female",
-    "experience": 10,
+    "experience": 12,
     "law_subject": "Family Law",
-    "expertise": ["Divorce", "Child Custody", "Inheritance"],
-    "license_no": "SA-FAM-2015-0782",
-    "tags": ["family", "mediation", "custody"],
-    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-f-1.jpg",
-    "client_review": "Soft-spoken and very supportive. Child custody case valo kore handle korlen.",
-    "ratings": 4.7,
-    "consultation_fee": { "amount": 250, "currency": "SAR" },
+    "expertise": ["Divorce Cases", "Child Custody", "Domestic Violence"],
+    "license_no": "SA-FAM-2013-0921",
+    "firm_name": "Harmony Legal Advocates",
+    "education": "LLB, King Saud University",
+    "email": "aisha.harbi@harmonyadvocates.com",
+    "phone": "+966-56-843-1204",
+    "office_location": "Jeddah, Saudi Arabia",
+    "tags": ["family", "custody", "marriage-law"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/l-f-1.jpg",
+    "profile_banner": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/banner-family.jpg",
+      "client_name": "Fatimah Nasser",
+      "client_img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/42c580696b15930fcd7c68df6aa19d15832329f5/client/c-f-1.jpg",
+      "review": "Aisha handled my case with empathy and great professionalism. I got justice faster than expected.",
+      "posted_on": "2025-01-10T11:00:00Z",
+      "case_type": "Divorce Settlement",
+      "verified_client": true
+    ,
+    "ratings": 4.8,
+    "consultation_fee": { "amount": 450, "currency": "SAR" },
+    "success_cases": 96,
+    "success_rate": 94,
     "available_time": [
-      { "day": "Tuesday", "from": "09:00", "to": "12:00" },
-      { "day": "Friday", "from": "14:00", "to": "18:00" }
-    ]
+      { "day": "Sunday", "from": "11:00", "to": "15:00" },
+      { "day": "Wednesday", "from": "09:00", "to": "13:00" }
+    ],
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/aisha-alharbi",
+      "website": "https://harmonyadvocates.com",
+      "twitter": "https://twitter.com/aishaadv"
+    },
+    "last_updated": "2025-09-15T10:00:00Z"
   },
   {
     "id": 3,
-    "name": "Mohammed Tariq",
+    "name": "Omar Al-Qahtani",
     "gender": "male",
-    "experience": 12,
+    "experience": 15,
     "law_subject": "Criminal Law",
-    "expertise": ["Criminal Defense", "Bail Hearings", "White-collar Crime"],
-    "license_no": "SA-CRM-2013-0321",
-    "tags": ["criminal", "defense", "litigation"],
-    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-2.jpg",
-    "client_review": "Tariq sb pro-active chilen. Court e confident bhabe represent korlen.",
-    "ratings": 4.6,
-    "consultation_fee": { "amount": 400, "currency": "SAR" },
+    "expertise": ["Criminal Defense", "Fraud Cases", "Cyber Crime"],
+    "license_no": "SA-CRIM-2012-0458",
+    "firm_name": "Justice Point Legal Services",
+    "education": "LLM, University of Edinburgh",
+    "email": "omar.qahtani@justicepoint.com",
+    "phone": "+966-50-667-9812",
+    "office_location": "Dammam, Saudi Arabia",
+    "tags": ["criminal", "fraud", "cybercrime"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/l-m-2.jpg",
+    "profile_banner": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/banner-criminal.jpg",
+      "client_name": "Salem Al-Hassan",
+      "client_img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/42c580696b15930fcd7c68df6aa19d15832329f5/client/c-m-2.jpg",
+      "review": "Omar’s deep understanding of criminal law saved me from false charges. Highly recommended.",
+      "posted_on": "2024-09-22T15:30:00Z",
+      "case_type": "Fraud Defense",
+      "verified_client": true
+    ,
+    "ratings": 4.7,
+    "consultation_fee": { "amount": 700, "currency": "SAR" },
+    "success_cases": 210,
+    "success_rate": 93,
     "available_time": [
-      { "day": "Wednesday", "from": "11:00", "to": "15:00" },
-      { "day": "Saturday", "from": "09:00", "to": "12:00" }
-    ]
+      { "day": "Tuesday", "from": "14:00", "to": "18:00" },
+      { "day": "Friday", "from": "10:00", "to": "13:00" }
+    ],
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/omar-alqahtani",
+      "website": "https://justicepoint.com",
+      "twitter": "https://twitter.com/omarqahtani"
+    },
+    "last_updated": "2025-09-15T10:00:00Z"
   },
   {
     "id": 4,
-    "name": "Aisha Khaled",
+    "name": "Sara Al-Mutairi",
     "gender": "female",
-    "experience": 7,
+    "experience": 9,
     "law_subject": "Immigration Law",
-    "expertise": ["Work Visas", "Residence Permits", "Appeals"],
-    "license_no": "SA-IMM-2018-0560",
-    "tags": ["immigration", "visa", "documentation"],
-    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-f-2.jpg",
-    "client_review": "Visa process e onek shahajjo korlen. Documentation khub bhalo kore prepare korlen.",
-    "ratings": 4.8,
-    "consultation_fee": { "amount": 200, "currency": "SAR" },
+    "expertise": ["Visa Appeals", "Residency Disputes", "Work Permits"],
+    "license_no": "SA-IMM-2016-0703",
+    "firm_name": "Gateway Legal Bureau",
+    "education": "LLM, Georgetown University",
+    "email": "sara.mutairi@gatewaybureau.com",
+    "phone": "+966-57-903-4421",
+    "office_location": "Madinah, Saudi Arabia",
+    "tags": ["immigration", "residency", "visa"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/l-f-2.jpg",
+    "profile_banner": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/banner-immigration.jpg",
+      "client_name": "Yousef Khan",
+      "client_img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/42c580696b15930fcd7c68df6aa19d15832329f5/client/c-m-3.jpg",
+      "review": "Sara helped me win a tough immigration case. She’s very dedicated and transparent.",
+      "posted_on": "2025-03-03T10:00:00Z",
+      "case_type": "Visa Renewal Appeal",
+      "verified_client": true
+    ,
+    "ratings": 4.6,
+    "consultation_fee": { "amount": 500, "currency": "SAR" },
+    "success_cases": 78,
+    "success_rate": 92,
     "available_time": [
-      { "day": "Monday", "from": "09:00", "to": "12:00" },
-      { "day": "Thursday", "from": "10:00", "to": "13:00" }
-    ]
+      { "day": "Monday", "from": "09:00", "to": "12:30" },
+      { "day": "Wednesday", "from": "15:00", "to": "18:00" }
+    ],
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/sara-almutairi",
+      "website": "https://gatewaybureau.com",
+      "twitter": "https://twitter.com/saramutairi"
+    },
+    "last_updated": "2025-09-15T10:00:00Z"
   },
   {
     "id": 5,
     "name": "Khaled Mansur",
     "gender": "male",
     "experience": 22,
-    "law_subject": "Real Estate & Property",
-    "expertise": ["Property Transactions", "Title Disputes", "Leases"],
+    "law_subject": "Real Estate Law",
+    "expertise": ["Property Transactions", "Land Disputes", "Lease Agreements"],
     "license_no": "SA-RE-2003-0019",
-    "tags": ["real-estate", "property-dispute", "transaction"],
-    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-3.jpg",
-    "client_review": "Property sale smooth hoye gelo. Khaled sb experienced and dependable.",
-    "ratings": 4.5,
-    "consultation_fee": { "amount": 500, "currency": "SAR" },
+    "firm_name": "Al-Mansur Property Legal Office",
+    "education": "LLB, Cairo University",
+    "email": "khaled.mansur@almansurlegal.com",
+    "phone": "+966-55-998-4422",
+    "office_location": "Jeddah, Saudi Arabia",
+    "tags": ["property", "real-estate", "contract"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/l-m-3.jpg",
+    "profile_banner": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/banner-property.jpg",
+      "client_name": "Othman Saleh",
+      "client_img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/42c580696b15930fcd7c68df6aa19d15832329f5/client/c-m-4.jpg",
+      "review": "Khaled resolved a long-standing property dispute for my family. His experience really shows.",
+      "posted_on": "2024-12-18T09:00:00Z",
+      "case_type": "Property Dispute",
+      "verified_client": true
+    ,
+    "ratings": 4.8,
+    "consultation_fee": { "amount": 550, "currency": "SAR" },
+    "success_cases": 250,
+    "success_rate": 95,
     "available_time": [
-      { "day": "Tuesday", "from": "15:00", "to": "18:00" },
-      { "day": "Friday", "from": "09:00", "to": "11:00" }
-    ]
+      { "day": "Tuesday", "from": "11:00", "to": "14:00" },
+      { "day": "Saturday", "from": "09:00", "to": "12:00" }
+    ],
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/khaled-mansur",
+      "website": "https://almansurlegal.com"
+    },
+    "last_updated": "2025-09-15T10:00:00Z"
   },
   {
     "id": 6,
@@ -97,15 +196,34 @@
     "law_subject": "Employment & Labor Law",
     "expertise": ["Employment Contracts", "Workplace Disputes", "Termination Cases"],
     "license_no": "SA-LBR-2010-0444",
-    "tags": ["labor", "employment", "advice"],
-    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-f-3.jpg",
-    "client_review": "Sara di workplace issue bhalo vabe resolve korechilen. Documentation strong chilo.",
-    "ratings": 4.8,
+    "firm_name": "Equal Rights Law Firm",
+    "education": "LLM, University of Leeds",
+    "email": "sara.begum@equalrights.com",
+    "phone": "+966-50-123-8877",
+    "office_location": "Riyadh, Saudi Arabia",
+    "tags": ["labor", "workplace", "contract"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/l-f-3.jpg",
+    "profile_banner": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/banner-labor.jpg",
+      "client_name": "Amira Saleh",
+      "client_img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/42c580696b15930fcd7c68df6aa19d15832329f5/client/c-f-2.jpg",
+      "review": "Sara handled my wrongful termination case efficiently. I received fair compensation.",
+      "posted_on": "2024-08-05T12:00:00Z",
+      "case_type": "Termination Dispute",
+      "verified_client": true
+    ,
+    "ratings": 4.7,
     "consultation_fee": { "amount": 300, "currency": "SAR" },
+    "success_cases": 130,
+    "success_rate": 90,
     "available_time": [
-      { "day": "Wednesday", "from": "09:00", "to": "13:00" },
-      { "day": "Sunday", "from": "16:00", "to": "19:00" }
-    ]
+      { "day": "Sunday", "from": "16:00", "to": "19:00" },
+      { "day": "Wednesday", "from": "09:00", "to": "13:00" }
+    ],
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/sara-begum",
+      "website": "https://equalrights.com"
+    },
+    "last_updated": "2025-09-15T10:00:00Z"
   },
   {
     "id": 7,
@@ -115,15 +233,34 @@
     "law_subject": "Intellectual Property",
     "expertise": ["Trademarks", "Patent Filings", "IP Litigation"],
     "license_no": "SA-IP-2016-0901",
-    "tags": ["ip", "trademark", "patent"],
-    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-4.jpg",
-    "client_review": "Brand registration khub professional bhabe korlen. Highly recommended for startups.",
+    "firm_name": "Habib IP Associates",
+    "education": "LLM, King Abdulaziz University",
+    "email": "omar.habib@habibip.com",
+    "phone": "+966-53-442-2201",
+    "office_location": "Riyadh, Saudi Arabia",
+    "tags": ["ip", "patent", "copyright"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/l-m-4.jpg",
+    "profile_banner": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/banner-ip.jpg",
+      "client_name": "Ali Rahman",
+      "client_img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/42c580696b15930fcd7c68df6aa19d15832329f5/client/c-m-5.jpg",
+      "review": "Registered my trademark quickly and professionally. Great support throughout.",
+      "posted_on": "2025-02-11T16:00:00Z",
+      "case_type": "Trademark Registration",
+      "verified_client": true
+    ,
     "ratings": 4.6,
     "consultation_fee": { "amount": 350, "currency": "SAR" },
+    "success_cases": 90,
+    "success_rate": 91,
     "available_time": [
       { "day": "Thursday", "from": "11:00", "to": "14:00" },
       { "day": "Saturday", "from": "13:00", "to": "16:00" }
-    ]
+    ],
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/omar-habib",
+      "website": "https://habibip.com"
+    },
+    "last_updated": "2025-09-15T10:00:00Z"
   },
   {
     "id": 8,
@@ -133,15 +270,34 @@
     "law_subject": "Tax Law",
     "expertise": ["Corporate Tax", "Tax Planning", "Compliance"],
     "license_no": "SA-TAX-2020-1220",
-    "tags": ["tax", "compliance", "planning"],
-    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-5.jpg",
-    "client_review": "Tax planning er jonno valo guidance dilo. Fees o clear chilo.",
-    "ratings": 4.3,
+    "firm_name": "TaxPro Legal Advisory",
+    "education": "LLB, Prince Sultan University",
+    "email": "yousef.rahman@taxpro.com",
+    "phone": "+966-51-987-3344",
+    "office_location": "Riyadh, Saudi Arabia",
+    "tags": ["tax", "compliance", "finance"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/l-m-5.jpg",
+    "profile_banner": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/banner-tax.jpg",
+    
+      "client_name": "Farhan Ali",
+      "client_img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/42c580696b15930fcd7c68df6aa19d15832329f5/client/c-m-6.jpg",
+      "review": "Yousef made tax filing very simple and stress-free for our business.",
+      "posted_on": "2025-04-20T10:45:00Z",
+      "case_type": "Corporate Tax Planning",
+      "verified_client": true,
+    "ratings": 4.4,
     "consultation_fee": { "amount": 280, "currency": "SAR" },
+    "success_cases": 55,
+    "success_rate": 87,
     "available_time": [
       { "day": "Monday", "from": "14:00", "to": "17:00" },
       { "day": "Friday", "from": "12:00", "to": "15:00" }
-    ]
+    ],
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/yousef-rahman",
+      "website": "https://taxpro.com"
+    },
+    "last_updated": "2025-09-15T10:00:00Z"
   },
   {
     "id": 9,
@@ -149,17 +305,36 @@
     "gender": "male",
     "experience": 14,
     "law_subject": "Banking & Finance",
-    "expertise": ["Loan Agreements", "Debt Restructuring", "Regulatory Compliance"],
+    "expertise": ["Loan Agreements", "Debt Restructuring", "Compliance"],
     "license_no": "SA-BNK-2009-0673",
-    "tags": ["banking", "finance", "regulation"],
-    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-6.jpg",
-    "client_review": "Complex loan negotiation e onek help korlen. Professional team ache.",
-    "ratings": 4.7,
-    "consultation_fee": { "amount": 550, "currency": "SAR" },
+    "firm_name": "Finance Legal Group",
+    "education": "LLB, Prince Sultan University",
+    "email": "yousef.rahman@taxpro.com",
+    "phone": "+966-51-987-3344",
+    "office_location": "Riyadh, Saudi Arabia",
+    "tags": ["tax", "compliance", "finance"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/l-m-5.jpg",
+    "profile_banner": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/banner-tax.jpg",
+    
+      "client_name": "Farhan Ali",
+      "client_img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/42c580696b15930fcd7c68df6aa19d15832329f5/client/c-m-6.jpg",
+      "review": "Yousef made tax filing very simple and stress-free for our business.",
+      "posted_on": "2025-04-20T10:45:00Z",
+      "case_type": "Corporate Tax Planning",
+      "verified_client": true,
+    "ratings": 4.4,
+    "consultation_fee": { "amount": 280, "currency": "SAR" },
+    "success_cases": 55,
+    "success_rate": 87,
     "available_time": [
-      { "day": "Tuesday", "from": "10:00", "to": "13:00" },
-      { "day": "Thursday", "from": "09:00", "to": "12:00" }
-    ]
+      { "day": "Monday", "from": "14:00", "to": "17:00" },
+      { "day": "Friday", "from": "12:00", "to": "15:00" }
+    ],
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/yousef-rahman",
+      "website": "https://taxpro.com"
+    },
+    "last_updated": "2025-09-15T10:00:00Z"
   },
   {
     "id": 10,
@@ -168,16 +343,35 @@
     "experience": 11,
     "law_subject": "Environmental Law",
     "expertise": ["Regulatory Permits", "Environmental Compliance", "Impact Assessments"],
-    "license_no": "SA-ENV-2014-0455",
-    "tags": ["environment", "compliance", "permits"],
-    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-f-4.jpg",
-    "client_review": "Project permit niye somossa chhilo — Laila ma'am shob clear kore diyechilen.",
-    "ratings": 4.6,
-    "consultation_fee": { "amount": 320, "currency": "SAR" },
+    "license_no": "SA-BNK-2009-0673",
+    "firm_name": "Finance Legal Group",
+    "education": "LLB, Prince Sultan University",
+    "email": "yousef.rahman@taxpro.com",
+    "phone": "+966-51-987-3344",
+    "office_location": "Riyadh, Saudi Arabia",
+    "tags": ["tax", "compliance", "finance"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/l-m-5.jpg",
+    "profile_banner": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/banner-tax.jpg",
+    
+      "client_name": "Farhan Ali",
+      "client_img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/42c580696b15930fcd7c68df6aa19d15832329f5/client/c-m-6.jpg",
+      "review": "Yousef made tax filing very simple and stress-free for our business.",
+      "posted_on": "2025-04-20T10:45:00Z",
+      "case_type": "Corporate Tax Planning",
+      "verified_client": true,
+    "ratings": 4.4,
+    "consultation_fee": { "amount": 280, "currency": "SAR" },
+    "success_cases": 55,
+    "success_rate": 87,
     "available_time": [
-      { "day": "Wednesday", "from": "14:00", "to": "17:00" },
-      { "day": "Sunday", "from": "10:00", "to": "13:00" }
-    ]
+      { "day": "Monday", "from": "14:00", "to": "17:00" },
+      { "day": "Friday", "from": "12:00", "to": "15:00" }
+    ],
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/yousef-rahman",
+      "website": "https://taxpro.com"
+    },
+    "last_updated": "2025-09-15T10:00:00Z"
   },
   {
     "id": 11,
@@ -186,16 +380,35 @@
     "experience": 6,
     "law_subject": "Maritime & Transport",
     "expertise": ["Shipping Contracts", "Cargo Claims", "Marine Insurance"],
-    "license_no": "SA-MAR-2019-0310",
-    "tags": ["maritime", "shipping", "claims"],
-    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-7.jpg",
-    "client_review": "Cargo delay er claim e sahajjo korlen, settlement bhalo hoye gelo.",
+    "license_no": "SA-BNK-2009-0673",
+    "firm_name": "Finance Legal Group",
+    "education": "LLB, Prince Sultan University",
+    "email": "yousef.rahman@taxpro.com",
+    "phone": "+966-51-987-3344",
+    "office_location": "Riyadh, Saudi Arabia",
+    "tags": ["tax", "compliance", "finance"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/l-m-5.jpg",
+    "profile_banner": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/banner-tax.jpg",
+    
+      "client_name": "Farhana Alomgir",
+      "client_img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/42c580696b15930fcd7c68df6aa19d15832329f5/client/c-f-5.jpg",
+      "review": "Yousef made tax filing very simple and stress-free for our business.",
+      "posted_on": "2025-04-20T10:45:00Z",
+      "case_type": "Corporate Tax Planning",
+      "verified_client": true,
     "ratings": 4.4,
-    "consultation_fee": { "amount": 330, "currency": "SAR" },
+    "consultation_fee": { "amount": 280, "currency": "SAR" },
+    "success_cases": 55,
+    "success_rate": 87,
     "available_time": [
-      { "day": "Monday", "from": "16:00", "to": "19:00" },
-      { "day": "Saturday", "from": "09:00", "to": "11:00" }
-    ]
+      { "day": "Monday", "from": "14:00", "to": "17:00" },
+      { "day": "Friday", "from": "12:00", "to": "15:00" }
+    ],
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/yousef-rahman",
+      "website": "https://taxpro.com"
+    },
+    "last_updated": "2025-09-15T10:00:00Z"
   },
   {
     "id": 12,
@@ -204,15 +417,34 @@
     "experience": 4,
     "law_subject": "Consumer Protection & E-commerce",
     "expertise": ["Online Disputes", "Consumer Claims", "Data Privacy Basics"],
-    "license_no": "SA-CNS-2021-0888",
-    "tags": ["consumer", "e-commerce", "privacy"],
-    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/dcc994a63e2113671f2a4cefa164ccd10ada8886/a8/l-m-8.jpg",
-    "client_review": "Online seller er against e claim korte khub helpful chilen. Quick response.",
-    "ratings": 4.5,
-    "consultation_fee": { "amount": 180, "currency": "SAR" },
+   "license_no": "SA-BNK-2009-0673",
+    "firm_name": "Finance Legal Group",
+    "education": "LLB, Prince Sultan University",
+    "email": "yousef.rahman@taxpro.com",
+    "phone": "+966-51-987-3344",
+    "office_location": "Riyadh, Saudi Arabia",
+    "tags": ["tax", "compliance", "finance"],
+    "img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/l-m-5.jpg",
+    "profile_banner": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/main/a8/banner-tax.jpg",
+    
+      "client_name": "Nafisa Kanom",
+      "client_img": "https://raw.githubusercontent.com/sabermahmud/imgs-for--api/42c580696b15930fcd7c68df6aa19d15832329f5/client/c-f-3.jpg",
+      "review": "Yousef made tax filing very simple and stress-free for our business.",
+      "posted_on": "2025-04-20T10:45:00Z",
+      "case_type": "Corporate Tax Planning",
+      "verified_client": true,
+    "ratings": 4.4,
+    "consultation_fee": { "amount": 280, "currency": "SAR" },
+    "success_cases": 55,
+    "success_rate": 87,
     "available_time": [
-      { "day": "Tuesday", "from": "17:00", "to": "20:00" },
-      { "day": "Thursday", "from": "09:00", "to": "11:00" }
-    ]
+      { "day": "Monday", "from": "14:00", "to": "17:00" },
+      { "day": "Friday", "from": "12:00", "to": "15:00" }
+    ],
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/yousef-rahman",
+      "website": "https://taxpro.com"
+    },
+    "last_updated": "2025-09-15T10:00:00Z"
   }
 ]
